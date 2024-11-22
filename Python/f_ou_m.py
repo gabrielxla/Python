@@ -1,5 +1,5 @@
 print ("Digite a primeira letra do seu genero:")
-genero = input("")
+genero = input("").lower()
 
 
 if genero == "m" or genero == "M":

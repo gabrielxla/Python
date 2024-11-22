@@ -1,4 +1,4 @@
-salario = int(input("Digite seu salario "))
+salario = float(input("Digite seu salario "))
 
 if salario <= 280:
     aumento=salario*0.20
